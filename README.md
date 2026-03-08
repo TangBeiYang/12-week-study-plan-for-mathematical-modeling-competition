@@ -1,0 +1,43 @@
+# 12-Week Study Plan for Mathematical Modeling Competition
+
+This repository is a personal record of my 12-week preparation for mathematical modeling competitions during the second semester of my freshman year.
+
+Here I keep:
+- weekly learning summaries
+- study notes on mathematical modeling
+- reflections on methods, tools, and practice
+- traces of my growth during the preparation process
+
+## Why this repository exists
+
+I created this repository to document my preparation week by week.
+
+I hope it can serve not only as a collection of notes, but also as a clear record of how I learn, practice, reflect, and improve over time.
+
+## Main Content
+
+The repository mainly includes weekly records related to:
+- mathematical modeling fundamentals
+- common competition models and methods
+- programming and data processing
+- visualization and analysis
+- paper reading and report writing
+- weekly reflections and future plans
+
+## Structure
+
+```text
+.
+├─ week-01/
+├─ week-02/
+├─ week-03/
+├─ week-04/
+├─ week-05/
+├─ week-06/
+├─ week-07/
+├─ week-08/
+├─ week-09/
+├─ week-10/
+├─ week-11/
+└─ week-12/
+```
