@@ -28,7 +28,7 @@ The repository mainly includes weekly records related to:
 
 ```text
 .
-├─ week-01/
+├─ week-01-overview/
 ├─ week-02/
 ├─ week-03/
 ├─ week-04/
