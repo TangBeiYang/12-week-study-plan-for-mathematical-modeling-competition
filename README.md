@@ -30,7 +30,7 @@ The repository mainly includes weekly records related to:
 .
 ├─ week-01-overview.md/
 ├─ week-02-paper-structure.md/
-├─ week-03/
+├─ week-03-data-prosessing.md/
 ├─ week-04/
 ├─ week-05/
 ├─ week-06/
