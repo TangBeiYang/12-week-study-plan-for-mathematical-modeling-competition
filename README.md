@@ -33,7 +33,7 @@ The repository mainly includes weekly records related to:
 ├─ week-03-data-prosessing.md/
 ├─ week-04-data-visualization.md/
 ├─ week-05-evaluation.md/
-├─ week-06/
+├─ week-06-prediction.md/
 ├─ week-07/
 ├─ week-08/
 ├─ week-09/
