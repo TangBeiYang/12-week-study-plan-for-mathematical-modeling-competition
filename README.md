@@ -34,7 +34,7 @@ The repository mainly includes weekly records related to:
 ├─ week-04-data-visualization.md/
 ├─ week-05-evaluation.md/
 ├─ week-06-prediction.md/
-├─ week-07/
+├─ week-07-optimization.md/
 ├─ week-08/
 ├─ week-09/
 ├─ week-10/
