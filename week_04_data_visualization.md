@@ -60,7 +60,7 @@
 
 变量之间相关性，不同区域热度，时空分布
 
-3\)优点
+3)优点
 
 适合展示大量二维关系
 
@@ -82,11 +82,37 @@
 
 #### 四、注意事项
 
-1\.一张图最好只表达一个结论
+1.一张图最好只表达一个结论
 
-2\.要让别人知道坐标轴的含义以及单位
+2.要让别人知道坐标轴的含义以及单位
 
-3\.根据目的选择合适的图
+3.根据目的选择合适的图
 
-4\.每张图都应该服务于某个分析结论
+4.每张图都应该服务于某个分析结论
+
+
+
+#### 五、编程画图方法
+
+##### 1\.常用库
+
+Matplotlib：最基础，控制最精细，几乎所有图都能画
+
+Seaborn：基于 Matplotlib 封装，代码更简洁，默认样式更好看，适合统计类图
+
+
+
+import matplotlib.pyplot as plt
+
+import seaborn as sns
+
+import numpy as np
+
+import pandas as pd
+
+plt.rcParams\['font.sans-serif'] = \['SimHei']
+
+plt.rcParams\['axes.unicode\_minus'] = False
+
+之后可以向ai询问怎么画图。
 
