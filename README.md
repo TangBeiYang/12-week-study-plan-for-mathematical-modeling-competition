@@ -28,16 +28,16 @@ The repository mainly includes weekly records related to:
 
 ```text
 .
-├─ week-01-overview.md/
-├─ week-02-paper-structure.md/
-├─ week-03-data-prosessing.md/
-├─ week-04-data-visualization.md/
-├─ week-05-evaluation.md/
-├─ week-06-prediction.md/
-├─ week-07-optimization.md/
-├─ week-08-classfication.md/
-├─ week-09-graph.md/
-├─ week-10/
-├─ week-11/
-└─ week-12/
+├─ week_01_overview.md/
+├─ week_02_paper_structure.md/
+├─ week_03_data_prosessing.md/
+├─ week_04_data_visualization.md/
+├─ week_05_evaluation.md/
+├─ week_06_prediction.md/
+├─ week_07_optimization.md/
+├─ week_08_classfication.md/
+├─ week_09_graph.md/
+├─ week_10_dynamic_models/
+├─ week_11/
+└─ week_12/
 ```
