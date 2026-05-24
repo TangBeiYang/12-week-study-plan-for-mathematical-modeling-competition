@@ -38,6 +38,6 @@ The repository mainly includes weekly records related to:
 ├─ week_08_classfication.md/
 ├─ week_09_graph.md/
 ├─ week_10_dynamic_models/
-├─ week_11/
+├─ week_11_integrated_modeling.md/
 └─ week_12/
 ```
